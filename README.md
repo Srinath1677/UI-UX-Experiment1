@@ -9,6 +9,5 @@ c. Illustrate the relationship between UI and UX in design.
 d. Demonstrate various UI/UX design tools in detail.   
   
 ## Output:
-https://github.com/Srinath1677/UI-UX-Experiment1/blob/main/UI%20and%20UX%20srinath.pdf
-
+(UI and UX srinath.pdf)
 ## Result:
